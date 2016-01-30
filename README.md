@@ -1,6 +1,9 @@
-# Facebook-comment-box
-This is a great wordpress plugin for integrate facebook comment box to your wordpress website
-This plugin will help you to display Facebook Comments on your website. You can use Facebook Comments box on your posts/pages
+<div align="center"><img align="center" style="width:100%" src="https://i.imgsafe.org/d626d92.jpg" alt=""></div>
+# Facebook comment box
+This is a great wordpress plugin for integrate facebook comment box to your wordpress website.
+You can use Facebook Comments box on your posts/pages
+
+### [Go to plugin page](https://wordpress.org/plugins/fb-comment-box/)
 
 ### Features of "Facebook Comment Box":
 
@@ -19,3 +22,11 @@ This plugin will help you to display Facebook Comments on your website. You can 
 * Ability to set facebook comment box container width.
 * Ability to set facebook comment box container background color.
 * Ability to set facebook comment box container background image.
+
+## Screenshots
+
+![](https://i.imgsafe.org/d8b43db.png)
+![](https://i.imgsafe.org/d872d26.png)
+![](https://i.imgsafe.org/f354587.png)
+![Plugin Settings Page](https://i.imgsafe.org/d966fb3.png)
+
