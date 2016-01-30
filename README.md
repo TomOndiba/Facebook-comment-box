@@ -1,4 +1,4 @@
-<div align="center"><img align="center" style="width:100%" src="https://i.imgsafe.org/d626d92.jpg" alt=""></div>
+<div align="center"><img align="center" style="width:100%" src="https://i.imgsafe.org/d655215.png" alt=""></div>
 # Facebook comment box
 This is a great wordpress plugin for integrate facebook comment box to your wordpress website.
 You can use Facebook Comments box on your posts/pages
