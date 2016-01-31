@@ -1,7 +1,7 @@
 <div align="center"><img align="center" style="width:100%" src="https://i.imgsafe.org/d655215.png" alt=""></div>
 # Facebook comment box
 This is a great wordpress plugin for integrate facebook comment box to your wordpress website.
-You can use Facebook Comments box on your posts/pages
+You can use Facebook Comments box on your posts and pages
 
 ### [Go to plugin page](https://wordpress.org/plugins/fb-comment-box/)
 
